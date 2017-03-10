@@ -1,4 +1,4 @@
-import lxml
+from lxml import html
 import requests
 
 r = requests.get("")
