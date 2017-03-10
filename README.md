@@ -11,6 +11,13 @@ pip install -r requirements.txt
 python run.py
 ```
 
+## Methods
+
+```py
+get(attr)
+text_content()
+```
+
 ## lxml doc:
 
 * http://lxml.de/lxmlhtml.html
